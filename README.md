@@ -1,7 +1,7 @@
 # particleSizeXAS
 Nanoparticle size determination with EXAFS fitting parameters. 
 
-Follow the steps in the script. It is only valid for fcc structres. 
+Follow the steps in the script. It is only valid for fcc structures. 
 
 Please cite the original literature on which the script is based. 
 
