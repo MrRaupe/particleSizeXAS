@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar  7 15:17:32 2023
+Stephan Pollitt
 
 """
 
