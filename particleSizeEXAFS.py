@@ -14,7 +14,7 @@ def nanometer(sizes):
     return y
 
 N = 12      # CN of FCC
-R = 0.264   # bond distance from EXAFS fit in Angstrom 
+R = 0.264   # bond distance from EXAFS fit in nanometer 
 CN = 9.4    # coordination number from EXAFS fit
 
 x = np.arange(1, 10, 0.1)
